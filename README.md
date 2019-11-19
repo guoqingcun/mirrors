@@ -2,6 +2,7 @@
 
 | 地址  |  镜像站点 |
 | ------------- | ------------- |
+| https://mirrors.tuna.tsinghua.edu.cn/ |清华大学|
 | http://mirrors.163.com/ |网易开源镜像站|
 | http://debian.ustc.edu.cn/ |中国科学技术大学开源镜像站|
 | http://mirror.bjtu.edu.cn/cn/ |北京交通大学开源镜像站|
